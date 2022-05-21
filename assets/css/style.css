@@ -70,7 +70,7 @@ body {
     font-size: 1rem;
 }
 
-.answer-box {
+#answer-box {
     border: none;
     color: #445361;
     display: inline-block;
